@@ -36,15 +36,15 @@ It uses only Python's standard library, so there is **nothing to install**.
 
 | Create Account | Account Created |
 |:---:|:---:|
-| <img src="screenshots/01-create-account.png" width="300"> | <img src="screenshots/02-account-created.png" width="300"> |
+| <img src="Screenshot 2026-10-28 114903.png" width="300"> | <img src="Screenshot 2026-10-28 114915.png" width="300"> |
 
 | PIN Login | Dashboard |
 |:---:|:---:|
-| <img src="screenshots/03-pin-login.png" width="300"> | <img src="screenshots/04-dashboard.png" width="300"> |
+| <img src="Screenshot 2026-10-28 114928.png" width="300"> | <img src="Screenshot 2026-10-28 114939.png" width="300"> |
 
 | Deposit | Withdraw |
 |:---:|:---:|
-| <img src="screenshots/05-deposit.png" width="300"> | <img src="screenshots/06-withdraw.png" width="300"> |
+| <img src="Screenshot 2026-10-28 114958.png" width="300"> | <img src="Screenshot 2026-10-28 115014.png" width="300"> |
 
 ## 🛠️ Getting Started
 
