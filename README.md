@@ -10,7 +10,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-<img src="screenshots/04-dashboard.png" alt="Simple Bank dashboard" width="380">
+<img src="Screenshot 2026-10-28 114939.png" alt="Simple Bank dashboard" width="380">
 
 </div>
 
